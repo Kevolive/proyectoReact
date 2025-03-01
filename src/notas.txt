@@ -1,0 +1,10 @@
+Consideraciones (MANDAMIENTOS)
+-> TODO componente se debe nombrar con la convención PasclaCase
+-> TODO componente debe tener un retorno (HTML): El retorno de código js se hace en {}. Y el retorno de html se hace en ()
+-> TODO componente debe tener una exportación
+->PREFERIBLEMENTE que el nombre de la función sea igual al del componente.
+
+Para las imágenes:
+freepick.com 
+pixabay.com 
+unsplash.com
